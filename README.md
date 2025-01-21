@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Nofil Siddiqui! 🚀
+# 👋 Hi there, I'm Nofil! 🚀
 
 Welcome to my digital playground! This is where I experiment, learn, and build creative solutions using technology. Whether it’s exploring AI, analyzing data, or developing exciting web applications, I’m always up for a challenge.
 
